@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Local env
+.venv/
+venv/
+.env
+
+# Data & artifacts (optional but recommended)
+data/*.csv
+models/*.pkl
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
